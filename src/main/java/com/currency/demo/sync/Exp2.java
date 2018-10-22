@@ -22,6 +22,8 @@ public class Exp2 {
     //模拟同时并发线程数
     private static int threadTotal = 200;
 
+
+
     private static int count = 0;
 
 
